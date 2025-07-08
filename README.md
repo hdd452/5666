@@ -23,4 +23,4 @@
 
 简洁易用，用户体验至上
 平台界面简洁直观，操作方便。每个视频页面都提供详细的介绍、演员信息及观众评价，帮助你做出选择。通过简易的筛选功能，你可以按照类型、女优或更新日期进行快速搜索，提升观看效率。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hdd452/5666 ）</span>
